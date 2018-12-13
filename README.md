@@ -29,3 +29,4 @@ ps：此套源码是根据网上cocos开源的棋牌麻将进行改写，服务�
   ![图片说明1](https://github.com/JerryXu008/DuoRenLianWangDouDiZhu/blob/master/pic/1.png)
   ![图片说明2](https://github.com/JerryXu008/DuoRenLianWangDouDiZhu/blob/master/pic/2.png)
   ![图片说明3](https://github.com/JerryXu008/DuoRenLianWangDouDiZhu/blob/master/pic/3.png)
+  ![图片说明4](https://github.com/JerryXu008/DuoRenLianWangDouDiZhu/blob/master/pic/4.png)
