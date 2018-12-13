@@ -1,0 +1,64 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 2,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules"  : ["cocos2d",  "external","extensions"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/PokerType.js",
+        "src/MyUtility.js",
+        "src/NodeId.js",
+        "src/TimeUtil.js",
+        "src/StringUtil.js",
+        "src/DateUtil.js",
+        "src/AudioUtil.js",
+        "src/CToast.js",
+        "src/DialogSetting.js",
+        "src/AnalyzePoke.js",
+        "src/AIUtil.js",
+        "src/Card.js",
+        "src/Person.js",
+        "src/DialogPerson.js",
+        "src/DialogSucceed.js",
+
+        "src/GameIndex.js",
+        "src/DialogPoker.js",
+        "src/JPQLayer.js",
+        "src/DialogTask.js",
+        "src/GameMain.js",
+
+
+        "src/NewAdd/components/WaitingConnection.js",
+        "src/NewAdd/components/AppStart.js",
+        "src/NewAdd/components/UserMgr.js",
+        "src/NewAdd/HTTP.js",
+        "src/NewAdd/Net.js",
+        "src/NewAdd/Hall.js",
+        "src/NewAdd/GameNetMgr.js",
+        "src/NewAdd/components/AlertWindow.js",
+        "src/NewAdd/components/CreateRoom.js",
+        "src/NewAdd/3rdparty/socket-io.js",
+        "src/NewAdd/Global.js",
+        "src/NewAdd/Net.js",
+        "src/NewAdd/components/ReConnect.js",
+        "src/NewAdd/components/JoinGameInput.js",
+        "src/NewAdd/components/SeatComponent.js",
+        "src/NewAdd/components/GameRoomComponent.js",
+        "src/NewAdd/components/TouchHelperComponent.js",
+        "src/NewAdd/components/SoundComponent.js",
+        "src/NewAdd/components/AnimationComponent.js",
+        "src/NewAdd/components/TimePointer.js",
+        "src/NewAdd/components/PopupMgrCom.js",
+        "src/NewAdd/ChooseQuitLayer.js"
+
+    ]
+}
+
+
